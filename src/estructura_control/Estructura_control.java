@@ -12,6 +12,8 @@ public class Estructura_control {
         boolean valor_log2 = false;
         boolean valor_log3 = true;
         
+        System.out.println("haciendo un cambio de practica");
+        
         System.out.println("inicio del programa");
                 
         if (valor_log == false){
